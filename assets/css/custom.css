@@ -1,0 +1,31 @@
+ 
+body .portfolio-item:hover .portfolio-item--desc,
+body .portfolio-item:hover .portfolio-item--desc-in {
+    opacity: 1;
+    visibility: visible;
+}
+
+body .portfolio-item--desc-in span a {
+	color: #fd735a;
+	background: #fff;
+	padding: 12px;
+	display: inline-block;
+	border-radius: 100px;
+	line-height: normal;
+	height: 50px;
+	width: 50px;
+	font-size: 20px;
+	margin: 18px 6px 0;
+	border: 1px solid #f9f9f9;
+}
+
+body .portfolio-item--desc-in span a:hover{
+	background-color: rgba(0,0,0,0.5);
+	color: #fff;
+	border: 1px solid rgba(0,0,0,0.8);
+}
+
+body .portfolio-item--desc-in h3 {
+    font-size: 21px;
+    font-weight: bold;
+}
