@@ -7,8 +7,6 @@
   <img align="left" alt="Facebook" width="22px" src="https://gist.githubusercontent.com/ChrisBup/6100ff7896dc235a136bfd47bfff147d/raw/ef5b3e190c633fbb009884d54219699b0340a7af/social-icon-facebook.svg" />
 </a> 
 
-![](https://visitor-badge.glitch.me/badge?page_id=imranimu)
-
 <br />
 
 I'm Imran Hossain, React & React Native developer
