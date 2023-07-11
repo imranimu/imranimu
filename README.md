@@ -1,12 +1,11 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/imran-imu/">
-   <img align="left" alt="Imran Facebook" width="22px" src="[https://gist.githubusercontent.com/ChrisBup/6100ff7896dc235a136bfd47bfff147d/raw/ef5b3e190c633fbb009884d54219699b0340a7af/social-icon-facebook.svg](https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png)" />
+   <img align="left" alt="Linkedin" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
 <a href="https://www.facebook.com/newrian">
-  <img align="left" alt="Imran Hossain's Facebook" width="22px" src="https://gist.githubusercontent.com/ChrisBup/6100ff7896dc235a136bfd47bfff147d/raw/ef5b3e190c633fbb009884d54219699b0340a7af/social-icon-facebook.svg" />
-</a>
- 
+  <img align="left" alt="Facebook" width="22px" src="https://gist.githubusercontent.com/ChrisBup/6100ff7896dc235a136bfd47bfff147d/raw/ef5b3e190c633fbb009884d54219699b0340a7af/social-icon-facebook.svg" />
+</a> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=imranimu)
 
