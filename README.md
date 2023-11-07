@@ -50,6 +50,8 @@ Markdown        20 mins         ▒░░░░░░░░░░░░░░░
 XML             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
+<a href="https://app.daily.dev/imranimu" class="button big">View Profile</a>
+
 <!--END_SECTION:waka-->
 <!-- 
 📈 my github stats
