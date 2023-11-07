@@ -5,17 +5,13 @@
 </a>
 <a href="https://www.facebook.com/newrian">
   <img align="left" alt="Facebook" width="22px" src="https://gist.githubusercontent.com/ChrisBup/6100ff7896dc235a136bfd47bfff147d/raw/ef5b3e190c633fbb009884d54219699b0340a7af/social-icon-facebook.svg" />
-</a> 
-
-<br /><br />
+</a>  
 
 I'm Imran Hossain, React & React Native developer
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. <br /><br />
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<a href="https://app.daily.dev/imranimu" style="float: right;">
-   <img src="https://api.daily.dev/devcards/641108923b3648e5b4f75f005aba428b.png?r=h9i" width="350" alt="Imran Hossain's Dev Card"/>
-</a>
+<img align="right" src="https://api.daily.dev/devcards/641108923b3648e5b4f75f005aba428b.png?r=h9i" width="300" alt="Imran Hossain's Dev Card"/>
 
 - 💬 ask me about anything, I am happy to help;
 
@@ -50,7 +46,7 @@ Markdown        20 mins         ▒░░░░░░░░░░░░░░░
 XML             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
-<a href="https://app.daily.dev/imranimu" class="button big">View Profile</a>
+<a href="https://app.daily.dev/imranimu" target="_blank" class="button pill">View Dev Profile</a>
 
 <!--END_SECTION:waka-->
 <!-- 
