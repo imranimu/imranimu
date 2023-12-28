@@ -11,7 +11,7 @@ I'm Imran Hossain, React & React Native developer
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" src="https://api.daily.dev/devcards/641108923b3648e5b4f75f005aba428b.png?r=kvt" width="300" alt="Imran Hossain's Dev Card"/>
+<img align="right" src="https://api.daily.dev/devcards/641108923b3648e5b4f75f005aba428b.png?r=8pr" width="300" alt="Imran Hossain's Dev Card"/>
 
 - 💬 ask me about anything, I am happy to help;
 
