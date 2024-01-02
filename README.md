@@ -4,7 +4,7 @@
    <img align="left" alt="Linkedin" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
 <a href="https://www.facebook.com/newrian">
-  <img align="left" alt="Facebook" width="22px" src="https://gist.githubusercontent.com/ChrisBup/6100ff7896dc235a136bfd47bfff147d/raw/ef5b3e190c633fbb009884d54219699b0340a7af/social-icon-facebook.svg" />
+  <img align="left" alt="Facebook" width="22px" src="https://www.svgrepo.com/show/3885/facebook.svg" />
 </a>  
 
 I'm Imran Hossain, React & React Native developer
