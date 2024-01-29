@@ -16,6 +16,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 - 💬 ask me about anything, I am happy to help;
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imranimu&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true&hide=contribs" alt="Imran's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranimu&theme=vision-friendly-dark&layout=compact&hide_border=true" alt="Imran's Top Languages" />
+</div>
+
 **languages and tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
