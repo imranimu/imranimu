@@ -132,9 +132,6 @@ JSON            20 mins         ▒░░░░░░░░░░░░░░░
 Markdown        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 XML             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
-
-<a href="https://app.daily.dev/imranimu" target="_blank" class="button pill">Dev Profile</a>
-
 <!--END_SECTION:waka-->
 
 <br/>
