@@ -1,68 +1,109 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<!-- ===================== HEADER ===================== -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Imran%20Hossain&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=React%20%26%20React%20Native%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="Header" width="100%" />
+
+<a href="https://github.com/imranimu">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hey+there!+%F0%9F%91%8B;React+%26+React+Native+Developer;Open-Source+Enthusiast+%26+Maintainer;Building+fast%2C+clean%2C+scalable+apps" alt="Typing SVG" />
+</a>
+
+<br/>
 
 <a href="https://www.linkedin.com/in/imran-imu/">
-   <img align="left" alt="Linkedin" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.facebook.com/newrian">
-   <img align="left" alt="Facebook" width="22px" src="https://static.cdnlogo.com/logos/f/91/facebook.svg" /> 
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://app.daily.dev/imranimu">
+  <img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="daily.dev" />
 </a>
 
-I'm Imran Hossain, React & React Native developer
+<br/><br/>
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+<img src="https://komarev.com/ghpvc/?username=imranimu&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/imranimu?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
 
-<img align="right" src="https://api.daily.dev/devcards/641108923b3648e5b4f75f005aba428b.png?r=0xb" width="300" alt="Imran Hossain's Dev Card"/>
-
-- 💬 ask me about anything, I am happy to help;
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imranimu&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true&hide=contribs" alt="Imran's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranimu&theme=vision-friendly-dark&layout=compact&hide_border=true" alt="Imran's Top Languages" />
 </div>
 
-## My Stack
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![PHP](https://img.shields.io/badge/php-4F5B93.svg?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
-[![LARAVEL](https://img.shields.io/badge/laravel-EB4432.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
-[![Electron JS](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org/)
-[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![SQL Server](https://img.shields.io/badge/sql_server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white&link=https://nginx.org/)
-![PyCharm](https://img.shields.io/badge/PyCharm-%23009639?style=for-the-badge&logo=pycharm&logoColor=black&color=Malachite&labelColor=green&link=https://www.jetbrains.com/pycharm/)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white&link=https://www.vim.org/)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23575757.svg?style=for-the-badge&logo=visual-studio-code&logoColor=important&link=https://code.visualstudio.com/)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&link=https://www.linux.org/)
-![Shell Script](https://img.shields.io/badge/Shell%20Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&link=https://www.gnu.org/software/bash/)
+---
 
-<!-- **languages and tools:**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
+## 👨‍💻 About Me
 
-📊 **This week i spent my time on:**
+I'm **Imran Hossain**, a **React & React Native developer** who loves turning ideas into polished, high-performance products.
+
+I'm also an **open-source enthusiast and maintainer**. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happen through it. Giving back is part of how I grow.
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>⚛️ Building with <b>React</b> &amp; <b>React Native</b></li>
+        <li>🌱 Always learning and sharing with the community</li>
+        <li>🤝 Open to collaboration on open-source projects</li>
+        <li>💬 Ask me about anything, I'm happy to help!</li>
+      </ul>
+    </td>
+    <td align="center">
+      <img src="https://api.daily.dev/devcards/641108923b3648e5b4f75f005aba428b.png?r=0xb" width="300" alt="Imran Hossain's Dev Card" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,php,py,bash&theme=dark" alt="Languages" />
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,electron,html,css,tailwind&theme=dark" alt="Frontend" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,fastapi&theme=dark" alt="Backend" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,mssql&theme=dark" alt="Databases" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux&theme=dark" alt="Cloud and DevOps" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,git,github&theme=dark" alt="Tools" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=imranimu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=contribs" alt="Imran's GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranimu&theme=tokyonight&layout=compact&hide_border=true" alt="Imran's Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=imranimu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranimu&theme=tokyonight" alt="Profile details" />
+
+</div>
+
+---
+
+## ⏱️ This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
 
@@ -78,7 +119,21 @@ XML             5 mins          ░░░░░░░░░░░░░░░░
 <a href="https://app.daily.dev/imranimu" target="_blank" class="button pill">Dev Profile</a>
 
 <!--END_SECTION:waka-->
-<!-- 
-📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imranimu&show_icons=true&theme=gotham" alt="imranimu" /> -->
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to interesting projects, collaborations, and conversations about code.
+
+<a href="https://www.linkedin.com/in/imran-imu/">
+  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="Footer" width="100%" />
+
+</div>
