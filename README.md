@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=640&height=40&lines=PHP+%C2%B7+Laravel+%C2%B7+Node.js;React+%C2%B7+React+Native;Building+scalable+web+%26+mobile+products;Open-Source+Enthusiast+%26+Maintainer" alt="Typing animation" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/imran-imu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
@@ -14,7 +14,7 @@
 &nbsp;
 <a href="https://app.daily.dev/imranimu"><img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="daily.dev" /></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=imranimu&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 &nbsp;
@@ -112,7 +112,7 @@
 &nbsp;
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranimu&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=imranimu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
